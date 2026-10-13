@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fomod>
+  <Name>Rival Companies</Name>
+  <Author>synthalorian</Author>
+  <Version>@VERSION@</Version>
+  <Website>https://github.com/Blackshield-Company/rival-companies</Website>
+  <Description>Four rival mercenary camps across Skyrim. Raid them for loot and a bounty note, or win the leader over by words, coin or a duel and recruit the company veteran. Base game, no SKSE. Early beta.</Description>
+  <Groups>
+    <element>Quests</element>
+  </Groups>
+</fomod>
