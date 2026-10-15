@@ -1,3 +1,5 @@
+![rival-companies](.github/preview.png)
+
 # Rival Companies
 
 Four rival mercenary companies have pitched camp across Skyrim. Raid a camp for its loot and the bounty on its leader, or win the company over with words, coin or a duel, and its veteran will follow you.
