@@ -37,4 +37,4 @@ Permissions (suggestion; code is MIT on GitHub):
 Tags (pick the closest matches in the tag picker):
 Quests, Followers, Combat, Lore-Friendly, ESL, No SKSE, Scripted
 
-Source: https://github.com/Blackshield-Company/rival-companies
+Source: https://github.com/synthalorian/rival-companies
