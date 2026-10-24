@@ -9,7 +9,7 @@ Four rival mercenary companies have pitched camp across Skyrim. Raid a camp for 
 - Game: Skyrim Special Edition / Anniversary Edition 1.6.x (1.5.97 also works). Runs on Windows, and on Linux through Proton.
 - Requirements: just the base game. No SKSE, SkyUI, DLC or Creation Club content.
 - Plugin: `RivalCompanies.esp`, ESL-flagged, with Skyrim.esm as its only master. **It edits no vanilla records** and adds no cells. The camps are new references created by a quest at existing map markers.
-- Part of the [Blackshield Company](https://github.com/synthalorian/blackshield-company) series. Blackshield Company is optional and detected at runtime. Prefix `RVC_`.
+- Part of the [Blackshield Company](https://github.com/Blackshield-Company/blackshield-company) series. Blackshield Company is optional and detected at runtime. Prefix `RVC_`.
 
 ## Install
 

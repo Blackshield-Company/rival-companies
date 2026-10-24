@@ -62,7 +62,7 @@ set RVC_TributeGold to 500
 [size=4][b]The series[/b][/size]
 Part of the Blackshield series. These camps are not your camp (that's Company Quartermaster) and this is not hiring (that's Sellsword Roster).
 
-[url=https://github.com/synthalorian/rival-companies]Source and issues[/url].
+[url=https://github.com/Blackshield-Company/rival-companies]Source and issues[/url].
 
 Donations are optional. Nothing is gated.
 [url=https://github.com/sponsors/synthalorian]GitHub Sponsors[/url] · [url=https://ko-fi.com/synthalorian]Ko-fi[/url]
